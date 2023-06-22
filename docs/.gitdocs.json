@@ -1,0 +1,22 @@
+{
+  "name": "DEV Docs",
+  "root": "./",
+  "logo": "devblacksquarelogo.svg",
+  "header_links": [
+    {
+      "title": "Repo",
+      "href": "https://github.com/thepracticaldev/dev.to",
+      "target": "_blank"
+    },
+    {
+      "title": "DEV",
+      "href": "https://dev.to",
+      "target": "_blank"
+    },
+    {
+      "title": "Ruby doc",
+      "href": "http://docs.dev.to/ruby-doc",
+      "target": "_blank"
+    }
+  ]
+}
